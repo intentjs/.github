@@ -1,4 +1,4 @@
-<p align="center"><a href="https://tryintent.com" target="_blank"><img src="./intent-banner.png" width="400"></a></p>
+<p align="center"><a href="https://tryintent.com" target="_blank"><img src="../intent-banner.png" width="400"></a></p>
 
 ## Introduction
 
